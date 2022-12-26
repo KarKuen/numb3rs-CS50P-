@@ -1,2 +1,4 @@
-# numb3rs-CS50P-
-Validate IP addresses
+# numb3rs (CS50P)
+
+##### CS50P Week 7 Problem set
+* Validate IP addresses
